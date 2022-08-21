@@ -9,8 +9,13 @@ font-family: 'Poppins';
 
 nav { 
     margin-left: 5%;
-    width:90%;
+    width:150%;
 height: 10%;}
+
+ul {
+    text-align: right;
+    width: 200%;
+}
 
 .container0 { 
     font-size: 24px;
@@ -20,7 +25,7 @@ height: 10%;}
     display: flex;
     text-align: left;
     padding: 1em;
-    background-color: blue;
+ 
     
 }
 
